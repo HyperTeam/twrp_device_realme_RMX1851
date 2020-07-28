@@ -56,7 +56,7 @@
         </interface>
     </hal>
     <vendor-ndk>
-        <version>28</version>
+        <version>29</version>
     </vendor-ndk>
     <system-sdk>
         <version>28</version>
